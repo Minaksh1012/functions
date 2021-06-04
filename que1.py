@@ -1,7 +1,5 @@
-def f1():
-   s = "I love Navgurukul"
-   def f2():
-       print(s)
-   f2()
+def employee(name,salary=20000):
+        print(name,"your salary is:-",salary)
 
-f1() 
+employee("kartik",30000)
+employee("deepak")
