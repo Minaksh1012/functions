@@ -8,12 +8,6 @@
 # sum,product,division,subtract= calculation(10, 20)
 # print("Sum:", sum, "Product:", product,"division:",division,"subtract:",subtract)
 
-
-
-def calculation(x,y,operation):
-    add=x+y
-    return add 
-sum=calculation(20,25,"addition") 
-print("addition:",sum)       
+   
 
 

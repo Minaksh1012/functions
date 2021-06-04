@@ -5,10 +5,8 @@
 # Jaise agar hum iss function ko [50, 60, 10] aur [10, 20, 13] denge ko woh yeh print karega
 
 def add_number_list(sum1,sum2):
-    # sum1=[50,60,10]
-    # sum2=[10,20,13]
+    sum1=0
     i=0
-    sum=0
     while i<len(sum1):
         s=sum1[i]+sum2[i]
         print(s)
